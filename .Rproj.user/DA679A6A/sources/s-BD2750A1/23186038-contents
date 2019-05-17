@@ -43,11 +43,11 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<nmoorenz>"
+    github = "nmoorenz"
 ##    instagram = "<username>"
 ##    xing = "<username>"
-    linkedin = "<nmoorenz>"
-    twitter = "<nmoorenz>"
+    linkedin = "nmoorenz"
+    twitter = "nmoorenz"
 ##    facebook = "<username>"
 ##    stackoverflow = "<username>"
 ##    telegram = "<username>"

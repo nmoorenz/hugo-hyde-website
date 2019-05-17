@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2460484259",
     "id" : "23186038",
-    "lastKnownWriteTime" : 1558060494,
-    "last_content_update" : 1558060494728,
+    "lastKnownWriteTime" : 1558065404,
+    "last_content_update" : 1558065404024,
     "path" : "C:/Users/mooren/r-work/hugo-hyde-website/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "19,19",
-        "scrollLine" : "0"
+        "cursorPosition" : "53,15",
+        "scrollLine" : "24"
     },
     "read_only" : false,
     "read_only_alternatives" : [
