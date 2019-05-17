@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558058428438.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2813989565",
+    "id" : "23186038",
+    "lastKnownWriteTime" : 1558060494,
+    "last_content_update" : 1558060494728,
+    "path" : "C:/Users/mooren/r-work/hugo-hyde-website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "56,12",
+        "scrollLine" : "39"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
