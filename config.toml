@@ -14,6 +14,12 @@ theme = "hyde-hyde"
 
 #paginate = 5
 
+# post url
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 ## Site Settings
 [params]
     author = "Nathan Moore"
@@ -44,14 +50,14 @@ theme = "hyde-hyde"
 ## Social Accounts
 [params.social]
     github = "nmoorenz"
+    linkedin = "nmoorenz"
+    twitter = "nmoorenz"   
+    email = "nath@nmoore.nz"    
 ##    instagram = "<username>"
 ##    xing = "<username>"
-    linkedin = "nmoorenz"
-    twitter = "nmoorenz"
 ##    facebook = "<username>"
 ##    stackoverflow = "<username>"
 ##    telegram = "<username>"
-    email = "nath@nmoore.nz"
 ##    gravatar = "your-email@example.com"
 
 ## Main Menu
