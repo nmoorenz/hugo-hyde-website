@@ -3,9 +3,9 @@ baseurl = "/"
 languageCode = "en"
 
 title = "Nathan's New Site"
-theme = "hyde-hyde"
+theme = "hyde"
 
-# ignore files (hopefully)
+# ignore files 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Hugo Built-in Features
