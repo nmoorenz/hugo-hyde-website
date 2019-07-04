@@ -29,6 +29,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # description = "..."
     authorimage = "/img/hugo.png"
     dateformat = "2 Jan 2006"
+    
+    # theme colour
+    themeColor = "theme-base-09"
 
     # sidebar, copyright & license
     copyright = "htr3n"
