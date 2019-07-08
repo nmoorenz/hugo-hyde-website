@@ -1,0 +1,36 @@
+---
+title: 'First Post'
+author: Nathan Moore
+date: '2019-07-04'
+slug: first-post
+categories:
+  - post
+tags:
+  - hugo
+  - theme
+  - netlify
+Categories:
+  - Development
+  - GoLang
+Description: ''
+Tags:
+  - Development
+  - golang
+---
+
+It seems worthwhile to create a website. There have been a few before this including blogger and wordpress. There's still a travel one, mostly filled with draft posts. I should get around to updating that sometime. In the mean time, here's another start. 
+
+I've got some ideas about what I want to write about: 
+
+* How much space is dedicated to cars in Auckland, specifically around [transit stations](https://app.traveltimeplatform.com/search/0_lng=174.84922&0_tt=15&0_mode=walking&0_title=Panmure%2C%20New%20Zealand&0_lat=-36.89815). 
+
+* The weirdness of setting up a blog. 
+
+* Creating dashboards for New Zealand [electricity](https://www.emi.ea.govt.nz/) data. 
+
+* Sharing links that I've currently got saved in my bookmarks that other people might find useful too and then I can clean up my bookmarks. 
+
+* Development of new toy packages and eventually some useful ones too. 
+
+That's it for now bye see you later. 
+

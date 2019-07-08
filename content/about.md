@@ -1,17 +1,15 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2019-07-01"
+title: About Me
 ---
 
-Hugo is a static site engine written in Go.
+I am an analyst based in Auckland, New Zealand. I like frisbee, cooking, reading, cycling, and lists. 
 
+Here are some links: 
 
-It makes use of a variety of open source projects including:
+* [github](https://github.com/nmoorenz)    
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* [linkedin](https://www.linkedin.com/in/nmoorenz/)  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* [twitter](https://twitter.com/nmoorenz)    
 
